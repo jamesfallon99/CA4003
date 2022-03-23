@@ -2,10 +2,12 @@
 Assignments for CA4003 Compiler Construction
 
 Assignment 1: A Lexical and Syntax Analyser for the CCAL Language
+
 "The aim of this assignment is to implement a lexical and syntax analyser using Antlr4 for a simple language called CCAL. The target language of Antrl4 must be Java.
 Your parser must read the source language from a file."
 
 Assignment 2: Semantic Analysis and Intermediate Representation for the CCAL Language
+
 "The aim of this assignment is to add semantic analysis checks and intermediate representation generation to the lexical and syntax analyser you have implement for the CCAL language as Assignment 1. The target language of Antrl4 must be Java. The genetated intermediate code should be a 3-address code and stored in a file with the ".ir" extension.
 
 Your will need to extend your submission for Assignment 1 to:
